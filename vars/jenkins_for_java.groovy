@@ -1,6 +1,3 @@
-vars
-| --- jenkins_for_java.groovy
-
 // jenkinsForJava.groovy
 def call(String repoUrl) {
   pipeline {
