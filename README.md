@@ -15,11 +15,11 @@
    
     @Library('first-shared-lib') _
     
-    jenkinsForJava 'https://github.com/iamvickyav/spring-boot-data-H2-embedded.git'
+    jenkins_for_java 'https://github.com/iamvickyav/spring-boot-data-H2-embedded.git'
     
     
     Here first-shared-lib is a name that we have mentioned in library section under configuration
-    and  jenkinsForJava  is groovy file name which is in vars folder
+    and  jenkins_for_java  is groovy file name which is in vars folder
 
 
 # Reference
